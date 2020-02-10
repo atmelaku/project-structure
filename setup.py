@@ -9,7 +9,7 @@ setuptools.setup(
     version="0.0.1",
     author="Alebachew Melaku",
     author_email="alebachewtegegne2017@yahoo.com",
-    url="https://github.com/atmelaku/project-structure",
+    url="https://github.com/atmelaku/text-adventure-game",
     description="a project structure that can run any python code",
     long_description=long_description,
     long_description_content_type="text/markdown",
