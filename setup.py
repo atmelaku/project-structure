@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="quiz_project"
+    name="math_game"
     version="0.0.1",
     author="Alebachew Melaku",
     author_email="alebachewtegegne2017@yahoo.com",
