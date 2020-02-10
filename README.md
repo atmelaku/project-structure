@@ -1,9 +1,9 @@
-# project-structure
+# text-adventure-game
 to run python code
 
 ## Usage
-add some code in the game_project/__init__.py then
-python3 __init__.py
+add some code in the math_game/math1.py then
+python3 math1.py
 
 
 
